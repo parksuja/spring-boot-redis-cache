@@ -42,7 +42,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
-    password: ekoloji
+    password: postgres
 server:
   port: 8080
 
